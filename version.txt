@@ -1,0 +1,8 @@
+# UTF-8
+ProductName=VimeoDownloader
+FileDescription=Vimeo Downloader Application
+FileVersion=1.0.0
+InternalName=VimeoDownloader
+LegalCopyright=YourName
+OriginalFilename=VimeoDownloader.exe
+ProductVersion=1.0.0

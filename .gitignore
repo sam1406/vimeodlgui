@@ -1,0 +1,7 @@
+dist/
+build/
+temp.json
+vimeo-dl.exe
+ffmpeg.exe
+myenv
+*.mp4
